@@ -1,2 +1,3 @@
 # hello-world
-Myfirst Github repository
+Hi, 
+This is Phani, editing the Readme-notes via branch "read-me-edits".
